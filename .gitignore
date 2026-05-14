@@ -1,0 +1,13 @@
+hadoop-3.3.6/
+hadoop-3.3.6.tar.gz
+
+build/
+output/
+
+*.class
+*.jar
+*.crc
+
+_SUCCESS
+
+.DS_Store
